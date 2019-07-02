@@ -1,0 +1,5 @@
+add_subdirectory( nodzdt )
+add_subdirectory( clzdt )
+add_subdirectory( kzdtd )
+add_subdirectory( zdtio-launcher )
+add_subdirectory( zdtio-blocklog )

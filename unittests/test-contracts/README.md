@@ -1,0 +1,5 @@
+test_ram_limit contract was compiled with zdtio.cdt v1.4.1
+
+That contract was ported to compile with zdtio.cdt v1.5.0, but the test that uses it is very sensitive to stdlib/zdtiolib changes, compilation flags and linker flags.
+
+The remaining contracts have been ported to compile with zdtio.cdt v1.6.x. They were compiled with a patched version of zdtio.cdt v1.6.0-rc1 (commit 1c9180ff5a1e431385180ce459e11e6a1255c1a4).

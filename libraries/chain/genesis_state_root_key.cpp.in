@@ -1,0 +1,12 @@
+/**
+ *  @file
+ *  @copyright defined in zdt/LICENSE
+ */
+
+#include <zdtio/chain/genesis_state.hpp>
+
+namespace zdtio { namespace chain {
+
+const string genesis_state::zdtio_root_key = "${ZDTIO_ROOT_KEY}";
+
+} } // namespace zdtio::chain
