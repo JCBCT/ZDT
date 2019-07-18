@@ -4,5 +4,4 @@ ZDT has deployed a high-security, high-performance infrastructure based on block
 
 After ZDT source code was published, many pilot testers have run a part of private nodes for testing and developed many related applications. We believe that ZDT will have a broader application prospect in the future.   
 
-Release Notes
-Date - Note: June 26 2019 - Release Essential Code of ZDT Kenerl.
+Note: ZDT was released on June 26, 2019.
